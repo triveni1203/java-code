@@ -1,5 +1,5 @@
 import java.util.*;
-public class lec4{
+public class Conversion{
     public static Scanner scn = new Scanner(System.in);
 
     public static int decimalToBinary(int n) {
