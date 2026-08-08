@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lec1{
+public class ArrayTopic1{
     public static Scanner scn = new Scanner(System.in);
 
     public static int[] input(int n){
