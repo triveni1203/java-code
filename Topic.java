@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class lec3 {
+public class Topic {
     public static Scanner scn = new Scanner(System.in);
 
     public static void binomialPattern(int num) {
