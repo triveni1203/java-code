@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class lec2 {
+public class ArrayTopic2{
     public static Scanner scn = new Scanner(System.in);
 
     public static void reverseOrder(int n) {
